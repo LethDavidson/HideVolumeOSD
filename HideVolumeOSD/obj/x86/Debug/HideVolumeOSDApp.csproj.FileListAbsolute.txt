@@ -1,0 +1,13 @@
+D:\Epic\HideVolumeOSD\x86\Debug\HideVolumeOSD.exe.config
+D:\Epic\HideVolumeOSD\x86\Debug\HideVolumeOSD.exe
+D:\Epic\HideVolumeOSD\x86\Debug\HideVolumeOSD.pdb
+D:\Epic\HideVolumeOSD\HideVolumeOSD\obj\x86\Debug\HideVolumeOSDApp.csproj.AssemblyReference.cache
+D:\Epic\HideVolumeOSD\HideVolumeOSD\obj\x86\Debug\HideVolumeOSD.AboutBox.resources
+D:\Epic\HideVolumeOSD\HideVolumeOSD\obj\x86\Debug\HideVolumeOSD.DummyForm.resources
+D:\Epic\HideVolumeOSD\HideVolumeOSD\obj\x86\Debug\HideVolumeOSD.Properties.Resources.resources
+D:\Epic\HideVolumeOSD\HideVolumeOSD\obj\x86\Debug\HideVolumeOSD.UserSettings.resources
+D:\Epic\HideVolumeOSD\HideVolumeOSD\obj\x86\Debug\HideVolumeOSD.VolumePoup.resources
+D:\Epic\HideVolumeOSD\HideVolumeOSD\obj\x86\Debug\HideVolumeOSDApp.csproj.GenerateResource.cache
+D:\Epic\HideVolumeOSD\HideVolumeOSD\obj\x86\Debug\HideVolumeOSDApp.csproj.CoreCompileInputs.cache
+D:\Epic\HideVolumeOSD\HideVolumeOSD\obj\x86\Debug\HideVolumeOSD.exe
+D:\Epic\HideVolumeOSD\HideVolumeOSD\obj\x86\Debug\HideVolumeOSD.pdb
